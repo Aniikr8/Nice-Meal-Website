@@ -19,7 +19,7 @@ Here're some of the project's best features:
 
 * FontAwesome: Integrated FontAwesome icons for enhanced visual elements and usability.
 
-<h2> Screen Shot & Demon </h2>
+<h2> Screen Shot & Demo </h2>
 
 <img src = "https://github.com/Aniikr8/Nice-Meal-Website/assets/74367440/9cce84e8-86c9-4e72-9de7-c21777ca962e" width="500" height="300">
 
