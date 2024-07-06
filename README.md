@@ -24,4 +24,5 @@ Here're some of the project's best features:
 <img src = "https://github.com/Aniikr8/Nice-Meal-Website/assets/74367440/9cce84e8-86c9-4e72-9de7-c21777ca962e" width="500" height="300">
 
 
-* Live Demo : <A href = "https://nice-meal-brunch.netlify.app/" > https://nice-meal-brunch.netlify.app/</a>
+<!-- * Live Demo : <A href = "https://nice-meal-brunch.netlify.app/" > https://nice-meal-brunch.netlify.app/</a>
+-->
